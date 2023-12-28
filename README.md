@@ -18,10 +18,11 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weweweok&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&show_icons=true&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weweweok&theme=gruvbox&utcOffset=9)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weweweok&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weweweok&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weweweok&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weweweok&theme=gruvbox&utcOffset=9)
+
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=weweweok&theme=gruvbox)
